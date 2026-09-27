@@ -1,0 +1,6 @@
+{
+  "name": "DevFolio Web Suite",
+  "description": "Interactive Developer Resume, Contact Form with LocalStorage/Google Sheets response inbox, React Contact Cards SPA, and useState Liked Cards showcase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
